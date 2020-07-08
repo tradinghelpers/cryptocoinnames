@@ -2,852 +2,787 @@
     "ADA": {
         "name": "Cardano",
         "binance": "ADA",
-        "coinmarketcal": ""
+        "coinmarketcal": "cardano"
     },
     "ADX": {
         "name": "AdEx",
         "binance": "ADX",
-        "coinmarketcal": ""
+        "coinmarketcal": "adx-net"
     },
     "AE": {
         "name": "Aeternity",
         "binance": "AE",
-        "coinmarketcal": ""
+        "coinmarketcal": "aeternity"
     },
     "AGI": {
         "name": "SingularityNET",
         "binance": "AGI",
-        "coinmarketcal": ""
+        "coinmarketcal": "singularitynet"
     },
     "AION": {
         "name": "Aion",
         "binance": "AION",
-        "coinmarketcal": ""
+        "coinmarketcal": "aion"
     },
     "ALGO": {
-        "name": null,
+        "name": "Algorand",
         "binance": "ALGO",
-        "coinmarketcal": ""
+        "coinmarketcal": "algorand"
     },
     "AMB": {
         "name": "Ambrosus",
         "binance": "AMB",
-        "coinmarketcal": ""
+        "coinmarketcal": "amber"
     },
     "ANKR": {
         "name": "Ankr Network",
         "binance": "ANKR",
-        "coinmarketcal": ""
+        "coinmarketcal": "ankr"
     },
     "APPC": {
         "name": "AppCoins",
         "binance": "APPC",
-        "coinmarketcal": ""
+        "coinmarketcal": "appcoins"
     },
     "ARDR": {
         "name": "Ardor",
         "binance": "ARDR",
-        "coinmarketcal": ""
+        "coinmarketcal": "ardor"
     },
     "ARK": {
         "name": "ARK",
         "binance": "ARK",
-        "coinmarketcal": ""
+        "coinmarketcal": "ark"
     },
     "ARN": {
         "name": "Aeron",
         "binance": "ARN",
-        "coinmarketcal": ""
+        "coinmarketcal": "aeron"
     },
     "ARPA": {
         "name": "ArpaCoin",
         "binance": "ARPA",
-        "coinmarketcal": ""
+        "coinmarketcal": "arpa-chain"
     },
     "AST": {
         "name": "AirSwap",
         "binance": "AST",
-        "coinmarketcal": ""
+        "coinmarketcal": "airswap"
     },
     "ATOM": {
         "name": "Atomic Coin",
         "binance": "ATOM",
-        "coinmarketcal": ""
+        "coinmarketcal": "cosmos"
     },
     "BAND": {
-        "name": null,
+        "name": "BAND",
         "binance": "BAND",
-        "coinmarketcal": ""
+        "coinmarketcal": "band-protocol"
     },
     "BAT": {
         "name": "Basic Attention Token",
         "binance": "BAT",
-        "coinmarketcal": ""
-    },
-    "BCC": {
-        "name": null,
-        "binance": "BCC",
-        "coinmarketcal": ""
+        "coinmarketcal": "basic-attention-token"
     },
     "BCD": {
         "name": "Bitcoin Diamond",
         "binance": "BCD",
-        "coinmarketcal": ""
-    },
-    "BCHABC": {
-        "name": null,
-        "binance": "BCHABC",
-        "coinmarketcal": ""
+        "coinmarketcal": "bitcoin-diamond"
     },
     "BCH": {
         "name": "Bitcoin Cash",
         "binance": "BCH",
-        "coinmarketcal": ""
-    },
-    "BCHSV": {
-        "name": null,
-        "binance": "BCHSV",
-        "coinmarketcal": ""
+        "coinmarketcal": "bitcoin-cash"
     },
     "BCN": {
         "name": "ByteCoin",
         "binance": "BCN",
-        "coinmarketcal": ""
+        "coinmarketcal": "bytecoin-bcn"
     },
     "BCPT": {
         "name": "BlockMason Credit Protocol",
         "binance": "BCPT",
-        "coinmarketcal": ""
+        "coinmarketcal": "blockmason"
     },
     "BEAM": {
         "name": "Beam",
         "binance": "BEAM",
-        "coinmarketcal": ""
+        "coinmarketcal": "beam"
     },
     "BLZ": {
         "name": "Bluzelle",
         "binance": "BLZ",
-        "coinmarketcal": ""
+        "coinmarketcal": "bluzelle"
     },
     "BNB": {
         "name": "Binance Coin",
         "binance": "BNB",
-        "coinmarketcal": ""
+        "coinmarketcal": "binance-coin"
     },
     "BNT": {
         "name": "Bancor Network Token",
         "binance": "BNT",
-        "coinmarketcal": ""
+        "coinmarketcal": "bancor"
     },
     "BQX": {
-        "name": null,
+        "name": "Voyager",
         "binance": "BQX",
         "coinmarketcal": ""
     },
     "BRD": {
         "name": "Bread token",
         "binance": "BRD",
-        "coinmarketcal": ""
-    },
-    "": {
-        "name": null,
-        "binance": "",
-        "coinmarketcal": ""
+        "coinmarketcal": "bread"
     },
     "BTG": {
         "name": "Bitcoin Gold",
         "binance": "BTG",
-        "coinmarketcal": ""
+        "coinmarketcal": "bitcoin-gold"
     },
     "BTS": {
         "name": "Bitshares",
         "binance": "BTS",
-        "coinmarketcal": ""
+        "coinmarketcal": "bitshares"
     },
     "BTT": {
         "name": "BitTorrent",
         "binance": "BTT",
-        "coinmarketcal": ""
+        "coinmarketcal": "blocktrade-token"
     },
     "CDT": {
         "name": "Blox",
         "binance": "CDT",
-        "coinmarketcal": ""
+        "coinmarketcal": "blox"
     },
     "CELR": {
-        "name": null,
+        "name": "Celer Network",
         "binance": "CELR",
-        "coinmarketcal": ""
+        "coinmarketcal": "celer-network"
     },
     "CHAT": {
         "name": "OpenChat",
         "binance": "CHAT",
-        "coinmarketcal": ""
+        "coinmarketcal": "chatcoin"
     },
     "CHR": {
-        "name": null,
+        "name": "Chromia",
         "binance": "CHR",
-        "coinmarketcal": ""
+        "coinmarketcal": "chromia"
     },
     "CHZ": {
-        "name": null,
+        "name": "Chiliz",
         "binance": "CHZ",
-        "coinmarketcal": ""
+        "coinmarketcal": "chiliz"
     },
     "CLOAK": {
         "name": "CloakCoin",
         "binance": "CLOAK",
-        "coinmarketcal": ""
+        "coinmarketcal": "cloakcoin"
     },
     "CMT": {
         "name": "CyberMiles",
         "binance": "CMT",
-        "coinmarketcal": ""
+        "coinmarketcal": "cybermiles"
     },
     "CND": {
         "name": "Cindicator",
         "binance": "CND",
-        "coinmarketcal": ""
-    },
-    "COCOS": {
-        "name": null,
-        "binance": "COCOS",
-        "coinmarketcal": ""
+        "coinmarketcal": "cindicator"
     },
     "COMP": {
         "name": "Compound Coin",
         "binance": "COMP",
-        "coinmarketcal": ""
+        "coinmarketcal": "compound-coin"
     },
     "COS": {
         "name": "Contentos",
         "binance": "COS",
-        "coinmarketcal": ""
+        "coinmarketcal": "cos"
     },
     "COTI": {
         "name": "COTI",
         "binance": "COTI",
-        "coinmarketcal": ""
+        "coinmarketcal": "coti"
     },
     "CTSI": {
-        "name": null,
+        "name": "Cartesi",
         "binance": "CTSI",
-        "coinmarketcal": ""
+        "coinmarketcal": "cartesi"
     },
     "CTXC": {
         "name": "Cortex",
         "binance": "CTXC",
-        "coinmarketcal": ""
+        "coinmarketcal": "cortex"
     },
     "CVC": {
         "name": "Civic",
         "binance": "CVC",
-        "coinmarketcal": ""
+        "coinmarketcal": "civic"
     },
     "DASH": {
         "name": "Dash",
         "binance": "DASH",
-        "coinmarketcal": ""
+        "coinmarketcal": "dash"
     },
     "DATA": {
         "name": "Streamr DATAcoin",
         "binance": "DATA",
-        "coinmarketcal": ""
+        "coinmarketcal": "streamr"
     },
     "DCR": {
         "name": "Decred",
         "binance": "DCR",
-        "coinmarketcal": ""
+        "coinmarketcal": "decred"
     },
     "DENT": {
         "name": "Dent",
         "binance": "DENT",
-        "coinmarketcal": ""
+        "coinmarketcal": "dent"
     },
     "DGB": {
         "name": "DigiByte",
         "binance": "DGB",
-        "coinmarketcal": ""
+        "coinmarketcal": "digibyte"
     },
     "DGD": {
         "name": "Digix DAO",
         "binance": "DGD",
-        "coinmarketcal": ""
+        "coinmarketcal": "digixdao"
     },
     "DLT": {
         "name": "Agrello Delta",
         "binance": "DLT",
-        "coinmarketcal": ""
+        "coinmarketcal": "agrello-delta"
     },
     "DNT": {
         "name": "district0x",
         "binance": "DNT",
-        "coinmarketcal": ""
+        "coinmarketcal": "district0x"
     },
     "DOCK": {
         "name": "Dock.io",
         "binance": "DOCK",
-        "coinmarketcal": ""
+        "coinmarketcal": "dock"
     },
     "DOGE": {
-        "name": {
-            "name": "Dogecoin",
-            "binance": "DOGE",
-            "coinmarketcal": "dogecoin"
-        },
+        "name": "Dogecoin",
         "binance": "DOGE",
-        "coinmarketcal": ""
+        "coinmarketcal": "dogecoin"
     },
     "DREP": {
-        "name": null,
+        "name": "DREP",
         "binance": "DREP",
-        "coinmarketcal": ""
+        "coinmarketcal": "drep"
     },
     "DUSK": {
         "name": "Dusk Network",
         "binance": "DUSK",
-        "coinmarketcal": ""
+        "coinmarketcal": "dusk-network"
     },
     "EDO": {
         "name": "Eidoo",
         "binance": "EDO",
-        "coinmarketcal": ""
+        "coinmarketcal": "eidoo"
     },
     "ELF": {
         "name": "aelf",
         "binance": "ELF",
-        "coinmarketcal": ""
+        "coinmarketcal": "aelf"
     },
     "ENG": {
         "name": "Enigma",
         "binance": "ENG",
-        "coinmarketcal": ""
+        "coinmarketcal": "enigma"
     },
     "ENJ": {
         "name": "Enjin Coin",
         "binance": "ENJ",
-        "coinmarketcal": ""
+        "coinmarketcal": "enjin-coin"
     },
     "EOS": {
         "name": "EOS",
         "binance": "EOS",
-        "coinmarketcal": ""
+        "coinmarketcal": "eos"
     },
     "ERD": {
-        "name": {
-            "name": "Elrond",
-            "binance": "ERD",
-            "coinmarketcal": "elrond"
-        },
+        "name": "Elrond",
         "binance": "ERD",
-        "coinmarketcal": ""
+        "coinmarketcal": "elrond"
     },
     "ETC": {
         "name": "Ethereum Classic",
         "binance": "ETC",
-        "coinmarketcal": ""
+        "coinmarketcal": "ethereum-classic"
     },
     "ETH": {
         "name": "Ethereum",
         "binance": "ETH",
-        "coinmarketcal": ""
+        "coinmarketcal": "ethereum"
     },
     "EVX": {
         "name": "Everex",
         "binance": "EVX",
-        "coinmarketcal": ""
+        "coinmarketcal": "everex"
     },
     "FET": {
         "name": "Fetch.AI",
         "binance": "FET",
-        "coinmarketcal": ""
+        "coinmarketcal": "fetch"
     },
     "FTM": {
         "name": "Fantom",
         "binance": "FTM",
-        "coinmarketcal": ""
+        "coinmarketcal": "fantom"
     },
     "FTT": {
         "name": "FarmaTrust",
         "binance": "FTT",
-        "coinmarketcal": ""
+        "coinmarketcal": "ftx-token"
     },
     "FUEL": {
         "name": "Etherparty",
         "binance": "FUEL",
-        "coinmarketcal": ""
+        "coinmarketcal": "etherparty"
     },
     "FUN": {
         "name": "FunFair",
         "binance": "FUN",
-        "coinmarketcal": ""
+        "coinmarketcal": "funfair"
     },
     "GAS": {
         "name": "Gas",
         "binance": "GAS",
-        "coinmarketcal": ""
+        "coinmarketcal": "gas"
     },
     "GNT": {
         "name": "Golem Network Token",
         "binance": "GNT",
-        "coinmarketcal": ""
+        "coinmarketcal": "golem-network-tokens"
     },
     "GO": {
         "name": "GoChain",
         "binance": "GO",
-        "coinmarketcal": ""
+        "coinmarketcal": "gochain"
     },
     "GRS": {
         "name": "Groestlcoin",
         "binance": "GRS",
-        "coinmarketcal": ""
+        "coinmarketcal": "groestlcoin"
     },
     "GTO": {
         "name": "GIFTO",
         "binance": "GTO",
-        "coinmarketcal": ""
+        "coinmarketcal": "gifto"
     },
     "GVT": {
         "name": "Genesis Vision",
         "binance": "GVT",
-        "coinmarketcal": ""
+        "coinmarketcal": "genesis-vision"
     },
     "GXS": {
         "name": "GXChain",
         "binance": "GXS",
-        "coinmarketcal": ""
+        "coinmarketcal": "gxchain"
     },
     "HBAR": {
-        "name": null,
+        "name": "Hedera Hashgraph",
         "binance": "HBAR",
-        "coinmarketcal": ""
+        "coinmarketcal": "hedera-hashgraph"
     },
     "HC": {
         "name": "HyperCash",
         "binance": "HC",
-        "coinmarketcal": ""
+        "coinmarketcal": "hypercash"
     },
     "HIVE": {
         "name": "Hive",
         "binance": "HIVE",
-        "coinmarketcal": ""
+        "coinmarketcal": "hive-blockchain"
     },
     "HOT": {
-        "name": {
-            "name": "Holo",
-            "binance": "HOT",
-            "coinmarketcal": "holo"
-        },
+        "name": "Holo",
         "binance": "HOT",
-        "coinmarketcal": ""
-    },
-    "HSR": {
-        "name": "Hshare",
-        "binance": "HSR",
-        "coinmarketcal": ""
-    },
-    "ICN": {
-        "name": "Iconomi",
-        "binance": "ICN",
-        "coinmarketcal": ""
+        "coinmarketcal": "holo"
     },
     "ICX": {
         "name": "ICON Project",
         "binance": "ICX",
-        "coinmarketcal": ""
+        "coinmarketcal": "icon"
     },
     "INS": {
         "name": "Insolar",
         "binance": "INS",
-        "coinmarketcal": ""
+        "coinmarketcal": "insolar"
     },
     "IOST": {
         "name": "IOS token",
         "binance": "IOST",
-        "coinmarketcal": ""
+        "coinmarketcal": "iostoken"
     },
     "IOTA": {
-        "name": null,
+        "name": "MIOTA",
         "binance": "IOTA",
-        "coinmarketcal": ""
+        "coinmarketcal": "iota"
     },
     "IOTX": {
         "name": "IoTeX Network",
         "binance": "IOTX",
-        "coinmarketcal": ""
+        "coinmarketcal": "iotex"
     },
     "KAVA": {
-        "name": null,
+        "name": "Kava",
         "binance": "KAVA",
-        "coinmarketcal": ""
+        "coinmarketcal": "kava"
     },
     "KEY": {
         "name": "SelfKey",
         "binance": "KEY",
-        "coinmarketcal": ""
+        "coinmarketcal": "selfkey"
     },
     "KMD": {
         "name": "Komodo",
         "binance": "KMD",
-        "coinmarketcal": ""
+        "coinmarketcal": "komodo"
     },
     "KNC": {
         "name": "Kyber Network",
         "binance": "KNC",
-        "coinmarketcal": ""
+        "coinmarketcal": "kyber-network"
     },
     "LEND": {
         "name": "EthLend",
         "binance": "LEND",
-        "coinmarketcal": ""
+        "coinmarketcal": "aave"
     },
     "LINK": {
         "name": "ChainLink",
         "binance": "LINK",
-        "coinmarketcal": ""
+        "coinmarketcal": "chainlink"
     },
     "LOOM": {
         "name": "Loom Network",
         "binance": "LOOM",
-        "coinmarketcal": ""
+        "coinmarketcal": "loom-network"
     },
     "LRC": {
         "name": "Loopring",
         "binance": "LRC",
-        "coinmarketcal": ""
+        "coinmarketcal": "loopring"
     },
     "LSK": {
         "name": "Lisk",
         "binance": "LSK",
-        "coinmarketcal": ""
+        "coinmarketcal": "lisk"
     },
     "LTC": {
         "name": "Litecoin",
         "binance": "LTC",
-        "coinmarketcal": ""
+        "coinmarketcal": "litecoin"
     },
     "LTO": {
         "name": "LTO Network",
         "binance": "LTO",
-        "coinmarketcal": ""
+        "coinmarketcal": "lto-network"
     },
     "LUN": {
         "name": "Lunyr",
         "binance": "LUN",
-        "coinmarketcal": ""
+        "coinmarketcal": "lunyr"
     },
     "MANA": {
         "name": "Decentraland",
         "binance": "MANA",
-        "coinmarketcal": ""
+        "coinmarketcal": "decentraland"
     },
     "MATIC": {
-        "name": null,
+        "name": "MATIC Network",
         "binance": "MATIC",
-        "coinmarketcal": ""
+        "coinmarketcal": "matic-network"
     },
     "MBL": {
-        "name": {
-            "name": "MovieBloc",
-            "binance": "MBL",
-            "coinmarketcal": "moviebloc"
-        },
+        "name": "MovieBloc",
         "binance": "MBL",
-        "coinmarketcal": ""
+        "coinmarketcal": "moviebloc"
     },
     "MCO": {
         "name": "Crypto.com",
         "binance": "MCO",
-        "coinmarketcal": ""
+        "coinmarketcal": "crypto-com"
     },
     "MDA": {
         "name": "Moeda",
         "binance": "MDA",
-        "coinmarketcal": ""
+        "coinmarketcal": "moeda-loyalty-points"
     },
     "MDT": {
         "name": "Midnight",
         "binance": "MDT",
-        "coinmarketcal": ""
+        "coinmarketcal": "measurable-data-token"
     },
     "MFT": {
         "name": "Mainframe",
         "binance": "MFT",
-        "coinmarketcal": ""
+        "coinmarketcal": "mainframe"
     },
     "MITH": {
         "name": "Mithril",
         "binance": "MITH",
-        "coinmarketcal": ""
+        "coinmarketcal": "mithril"
     },
     "MOD": {
         "name": "Modum",
         "binance": "MOD",
-        "coinmarketcal": ""
+        "coinmarketcal": "modum"
     },
     "MTH": {
         "name": "Monetha",
         "binance": "MTH",
-        "coinmarketcal": ""
+        "coinmarketcal": "monetha"
     },
     "MTL": {
         "name": "Metal",
         "binance": "MTL",
-        "coinmarketcal": ""
+        "coinmarketcal": "metal"
     },
     "NANO": {
         "name": "Nano",
         "binance": "NANO",
-        "coinmarketcal": ""
+        "coinmarketcal": "nano"
     },
     "NAS": {
         "name": "Nebulas",
         "binance": "NAS",
-        "coinmarketcal": ""
+        "coinmarketcal": "nebulas-token"
     },
     "NAV": {
         "name": "NavCoin",
         "binance": "NAV",
-        "coinmarketcal": ""
+        "coinmarketcal": "nav-coin"
     },
     "NCASH": {
         "name": "Nucleus Vision",
         "binance": "NCASH",
-        "coinmarketcal": ""
+        "coinmarketcal": "nucleus-vision"
     },
     "NEBL": {
         "name": "Neblio",
         "binance": "NEBL",
-        "coinmarketcal": ""
+        "coinmarketcal": "neblio"
     },
     "NEO": {
         "name": "NEO",
         "binance": "NEO",
-        "coinmarketcal": ""
+        "coinmarketcal": "neo"
     },
     "NKN": {
         "name": "NKN",
         "binance": "NKN",
-        "coinmarketcal": ""
+        "coinmarketcal": "nkn"
     },
     "NPXS": {
         "name": "Pundi X",
         "binance": "NPXS",
-        "coinmarketcal": ""
+        "coinmarketcal": "pundi-x"
     },
     "NULS": {
         "name": "Nuls",
         "binance": "NULS",
-        "coinmarketcal": ""
+        "coinmarketcal": "nuls"
     },
     "NXS": {
         "name": "Nexus",
         "binance": "NXS",
-        "coinmarketcal": ""
+        "coinmarketcal": "nexus"
     },
     "OAX": {
         "name": "OpenANX",
         "binance": "OAX",
-        "coinmarketcal": ""
+        "coinmarketcal": "oax"
     },
     "OGN": {
-        "name": null,
+        "name": "OriginToken",
         "binance": "OGN",
-        "coinmarketcal": ""
+        "coinmarketcal": "origin-protocol"
     },
     "OMG": {
         "name": "OmiseGo",
         "binance": "OMG",
-        "coinmarketcal": ""
+        "coinmarketcal": "omg"
     },
     "ONE": {
         "name": "Menlo One",
         "binance": "ONE",
-        "coinmarketcal": ""
+        "coinmarketcal": "menlo-one"
     },
     "ONG": {
         "name": "SoMee.Social",
         "binance": "ONG",
-        "coinmarketcal": ""
+        "coinmarketcal": "ontology-gas"
     },
     "ONT": {
         "name": "Ontology",
         "binance": "ONT",
-        "coinmarketcal": ""
+        "coinmarketcal": "ontology"
     },
     "OST": {
         "name": "Simple Token",
         "binance": "OST",
-        "coinmarketcal": ""
+        "coinmarketcal": "ost"
     },
     "PAX": {
         "name": "Paxos Standard",
         "binance": "PAX",
-        "coinmarketcal": ""
+        "coinmarketcal": "paxos-standard"
     },
     "PERL": {
-        "name": null,
+        "name": "Perlin",
         "binance": "PERL",
-        "coinmarketcal": ""
-    },
-    "PHB": {
-        "name": null,
-        "binance": "PHB",
-        "coinmarketcal": ""
+        "coinmarketcal": "perlin"
     },
     "PHX": {
         "name": "Red Pulse Phoenix",
         "binance": "PHX",
-        "coinmarketcal": ""
+        "coinmarketcal": "red-pulse"
     },
     "PIVX": {
         "name": "Private Instant Verified Transaction",
         "binance": "PIVX",
-        "coinmarketcal": ""
+        "coinmarketcal": "pivx"
     },
     "PNT": {
         "name": "Penta",
         "binance": "PNT",
-        "coinmarketcal": ""
+        "coinmarketcal": "pnetwork"
     },
     "POA": {
         "name": "Poa Network",
         "binance": "POA",
-        "coinmarketcal": ""
+        "coinmarketcal": "poa"
     },
     "POE": {
         "name": "Po.et",
         "binance": "POE",
-        "coinmarketcal": ""
+        "coinmarketcal": "poet"
     },
     "POLY": {
         "name": "PolyBit",
         "binance": "POLY",
-        "coinmarketcal": ""
+        "coinmarketcal": "polymath-network"
     },
     "POWR": {
         "name": "Power Ledger",
         "binance": "POWR",
-        "coinmarketcal": ""
+        "coinmarketcal": "power-ledger"
     },
     "PPT": {
         "name": "Populous",
         "binance": "PPT",
-        "coinmarketcal": ""
+        "coinmarketcal": "populous"
     },
     "QKC": {
         "name": "QuarkChain",
         "binance": "QKC",
-        "coinmarketcal": ""
+        "coinmarketcal": "quarkchain"
     },
     "QLC": {
         "name": "QLC Chain",
         "binance": "QLC",
-        "coinmarketcal": ""
+        "coinmarketcal": "qlink"
     },
     "QSP": {
         "name": "Quantstamp",
         "binance": "QSP",
-        "coinmarketcal": ""
+        "coinmarketcal": "quantstamp"
     },
     "QTUM": {
         "name": "QTUM",
         "binance": "QTUM",
-        "coinmarketcal": ""
+        "coinmarketcal": "qtum"
     },
     "RCN": {
         "name": "Ripio",
         "binance": "RCN",
-        "coinmarketcal": ""
+        "coinmarketcal": "ripio-credit-network"
     },
     "RDN": {
         "name": "RadonPay",
         "binance": "RDN",
-        "coinmarketcal": ""
+        "coinmarketcal": "raiden-network-token"
     },
     "REN": {
         "name": "Republic Token",
         "binance": "REN",
-        "coinmarketcal": ""
+        "coinmarketcal": "ren"
     },
     "REP": {
         "name": "Augur",
         "binance": "REP",
-        "coinmarketcal": ""
+        "coinmarketcal": "augur"
     },
     "REQ": {
         "name": "Request Network",
         "binance": "REQ",
-        "coinmarketcal": ""
+        "coinmarketcal": "request"
     },
     "RLC": {
         "name": "iEx.ec",
         "binance": "RLC",
-        "coinmarketcal": ""
-    },
-    "RPX": {
-        "name": null,
-        "binance": "RPX",
-        "coinmarketcal": ""
+        "coinmarketcal": "rlc"
     },
     "RVN": {
         "name": "Ravencoin",
         "binance": "RVN",
-        "coinmarketcal": ""
+        "coinmarketcal": "ravencoin"
     },
     "SALT": {
         "name": "Salt Lending",
         "binance": "SALT",
-        "coinmarketcal": ""
+        "coinmarketcal": "salt"
     },
     "SC": {
         "name": "Siacoin",
         "binance": "SC",
-        "coinmarketcal": ""
+        "coinmarketcal": "siacoin"
     },
     "SKY": {
         "name": "Skycoin",
         "binance": "SKY",
-        "coinmarketcal": ""
+        "coinmarketcal": "skycoin"
     },
     "SNGLS": {
         "name": "SingularDTV",
         "binance": "SNGLS",
-        "coinmarketcal": ""
+        "coinmarketcal": "singulardtv"
     },
     "SNM": {
         "name": "SONM",
         "binance": "SNM",
-        "coinmarketcal": ""
+        "coinmarketcal": "sonm"
     },
     "SNT": {
         "name": "Status Network Token",
         "binance": "SNT",
-        "coinmarketcal": ""
+        "coinmarketcal": "status"
     },
     "SOL": {
         "name": "Sola",
         "binance": "SOL",
-        "coinmarketcal": ""
+        "coinmarketcal": "solana"
     },
     "STEEM": {
         "name": "Steem",
         "binance": "STEEM",
-        "coinmarketcal": ""
+        "coinmarketcal": "steem"
     },
     "STMX": {
-        "name": {
-            "name": "StormX",
-            "binance": "STMX",
-            "coinmarketcal": "stormx"
-        },
+        "name": "StormX",
         "binance": "STMX",
-        "coinmarketcal": ""
+        "coinmarketcal": "stormx"
     },
     "STORJ": {
         "name": "Storj",
         "binance": "STORJ",
-        "coinmarketcal": ""
+        "coinmarketcal": "storj"
     },
     "STORM": {
         "name": "Storm",
@@ -855,212 +790,203 @@
         "coinmarketcal": ""
     },
     "STPT": {
-        "name": null,
+        "name": "Standard Tokenization Protocol",
         "binance": "STPT",
-        "coinmarketcal": ""
+        "coinmarketcal": "standard-tokenization-protocol"
     },
     "STRAT": {
         "name": "Stratis",
         "binance": "STRAT",
-        "coinmarketcal": ""
+        "coinmarketcal": "stratis"
     },
     "STX": {
         "name": "Stox",
         "binance": "STX",
-        "coinmarketcal": ""
+        "coinmarketcal": "stox"
     },
     "SUB": {
         "name": "Substratum Network",
         "binance": "SUB",
-        "coinmarketcal": ""
+        "coinmarketcal": "substratum"
     },
     "SYS": {
         "name": "SysCoin",
         "binance": "SYS",
-        "coinmarketcal": ""
+        "coinmarketcal": "syscoin"
     },
     "TCT": {
         "name": "TokenClub",
         "binance": "TCT",
-        "coinmarketcal": ""
+        "coinmarketcal": "tokenclub"
     },
     "TFUEL": {
-        "name": {
-            "name": "Theta Fuel",
-            "binance": "TFUEL",
-            "coinmarketcal": "theta-fuel"
-        },
+        "name": "Theta Fuel",
         "binance": "TFUEL",
-        "coinmarketcal": ""
+        "coinmarketcal": "theta-fuel"
     },
     "THETA": {
         "name": "Theta",
         "binance": "THETA",
-        "coinmarketcal": ""
+        "coinmarketcal": "theta"
     },
     "TNB": {
         "name": "Time New Bank",
         "binance": "TNB",
-        "coinmarketcal": ""
+        "coinmarketcal": "time-new-bank"
     },
     "TNT": {
         "name": "Tierion",
         "binance": "TNT",
-        "coinmarketcal": ""
+        "coinmarketcal": "tierion"
     },
     "TOMO": {
         "name": "TomoChain",
         "binance": "TOMO",
-        "coinmarketcal": ""
+        "coinmarketcal": "tomochain"
     },
     "TRIG": {
         "name": "Trigger",
         "binance": "TRIG",
-        "coinmarketcal": ""
+        "coinmarketcal": "triggers"
     },
     "TROY": {
-        "name": null,
+        "name": "Troy",
         "binance": "TROY",
-        "coinmarketcal": ""
+        "coinmarketcal": "troy"
     },
     "TRX": {
         "name": "TRON",
         "binance": "TRX",
-        "coinmarketcal": ""
+        "coinmarketcal": "tron"
     },
     "TUSD": {
         "name": "True USD",
         "binance": "TUSD",
-        "coinmarketcal": ""
-    },
-    "VEN": {
-        "name": null,
-        "binance": "VEN",
-        "coinmarketcal": ""
+        "coinmarketcal": "trueusd"
     },
     "VET": {
         "name": "Vechain",
         "binance": "VET",
-        "coinmarketcal": ""
+        "coinmarketcal": "vechain"
     },
     "VIA": {
         "name": "ViaCoin",
         "binance": "VIA",
-        "coinmarketcal": ""
+        "coinmarketcal": "viacoin"
     },
     "VIB": {
         "name": "Viberate",
         "binance": "VIB",
-        "coinmarketcal": ""
+        "coinmarketcal": "viberate"
     },
     "VIBE": {
         "name": "VIBEHub",
         "binance": "VIBE",
-        "coinmarketcal": ""
+        "coinmarketcal": "vibe"
     },
     "VITE": {
         "name": "VITE",
         "binance": "VITE",
-        "coinmarketcal": ""
+        "coinmarketcal": "vite"
     },
     "WABI": {
         "name": "WaBi",
         "binance": "WABI",
-        "coinmarketcal": ""
+        "coinmarketcal": "tael"
     },
     "WAN": {
         "name": "Wanchain",
         "binance": "WAN",
-        "coinmarketcal": ""
+        "coinmarketcal": "wanchain"
     },
     "WAVES": {
         "name": "Waves",
         "binance": "WAVES",
-        "coinmarketcal": ""
+        "coinmarketcal": "waves"
     },
     "WIN": {
         "name": "WCoin",
         "binance": "WIN",
-        "coinmarketcal": ""
+        "coinmarketcal": "wintoken"
     },
     "WINGS": {
         "name": "Wings DAO",
         "binance": "WINGS",
-        "coinmarketcal": ""
+        "coinmarketcal": "wings"
     },
     "WPR": {
         "name": "WePower",
         "binance": "WPR",
-        "coinmarketcal": ""
+        "coinmarketcal": "wepower"
     },
     "WRX": {
-        "name": null,
+        "name": "WazirX",
         "binance": "WRX",
-        "coinmarketcal": ""
+        "coinmarketcal": "wazirx"
     },
     "WTC": {
         "name": "Waltonchain",
         "binance": "WTC",
-        "coinmarketcal": ""
+        "coinmarketcal": "waltonchain"
     },
     "XEM": {
         "name": "NEM",
         "binance": "XEM",
-        "coinmarketcal": ""
+        "coinmarketcal": "nem"
     },
     "XLM": {
         "name": "Stellar",
         "binance": "XLM",
-        "coinmarketcal": ""
+        "coinmarketcal": "stellar"
     },
     "XMR": {
         "name": "Monero",
         "binance": "XMR",
-        "coinmarketcal": ""
+        "coinmarketcal": "monero"
     },
     "XRP": {
         "name": "XRP",
         "binance": "XRP",
-        "coinmarketcal": ""
+        "coinmarketcal": "xrp"
     },
     "XTZ": {
         "name": "Tezos",
         "binance": "XTZ",
-        "coinmarketcal": ""
+        "coinmarketcal": "tezos"
     },
     "XVG": {
         "name": "Verge",
         "binance": "XVG",
-        "coinmarketcal": ""
+        "coinmarketcal": "verge"
     },
     "XZC": {
         "name": "ZCoin",
         "binance": "XZC",
-        "coinmarketcal": ""
+        "coinmarketcal": "zcoin"
     },
     "YOYO": {
-        "name": null,
+        "name": "YOYOW",
         "binance": "YOYO",
-        "coinmarketcal": ""
+        "coinmarketcal": "yoyow"
     },
     "ZEC": {
         "name": "ZCash",
         "binance": "ZEC",
-        "coinmarketcal": ""
+        "coinmarketcal": "zcash"
     },
     "ZEN": {
         "name": "ZEN",
         "binance": "ZEN",
-        "coinmarketcal": ""
+        "coinmarketcal": "horizen"
     },
     "ZIL": {
         "name": "Zilliqa",
         "binance": "ZIL",
-        "coinmarketcal": ""
+        "coinmarketcal": "zilliqa"
     },
     "ZRX": {
         "name": "0x",
         "binance": "ZRX",
-        "coinmarketcal": ""
+        "coinmarketcal": "0x"
     }
 }
